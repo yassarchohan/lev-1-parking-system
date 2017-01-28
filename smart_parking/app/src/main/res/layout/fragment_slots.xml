@@ -1,0 +1,189 @@
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/sight"
+    android:weightSum="1"
+    tools:context="com.example.yassarchohan.smart_parking.slots">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <ScrollView
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+<LinearLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent">
+
+
+
+
+
+        <TextView
+            android:textSize="15sp"
+            android:textStyle="bold"
+            android:text="Section"
+            android:padding="8dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+
+
+
+        <Button
+            android:layout_margin="6dp"
+            android:padding="40dp"
+            android:text="slot1"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/slot1"
+            />
+
+        <Button
+
+            android:padding="40dp"
+            android:layout_marginLeft="8dp"
+            android:text="slot2"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/slot2"
+            />
+
+        <Button
+            android:layout_marginLeft="8dp"
+            android:padding="40dp"
+            android:text="slot3"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/slot3"
+            />
+
+        <Button
+            android:layout_marginLeft="8dp"
+            android:padding="40dp"
+            android:layout_margin="8dp"
+            android:text="slot4"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/slot4"
+            />
+
+        <Button
+            android:layout_marginLeft="8dp"
+            android:padding="40dp"
+            android:layout_margin="8dp"
+            android:text="slot5"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/slot5"
+            />
+
+        <Button
+            android:layout_marginLeft="4dp"
+            android:padding="40dp"
+
+            android:text="slot6"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/slot6"
+
+            />
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_marginLeft="60dp"
+        android:orientation="vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:textSize="15sp"
+            android:textStyle="bold"
+            android:text="Section"
+            android:padding="8dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+
+
+
+        <Button
+            android:layout_margin="6dp"
+            android:padding="40dp"
+            android:text="slot7"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/slot7"
+            />
+
+        <Button
+
+            android:padding="40dp"
+            android:layout_marginLeft="8dp"
+            android:text="slot8"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/slot8"
+            />
+
+        <Button
+            android:layout_marginLeft="8dp"
+            android:padding="40dp"
+            android:text="slot9"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/slot9"
+            />
+
+        <Button
+            android:layout_marginLeft="8dp"
+            android:padding="40dp"
+            android:layout_margin="8dp"
+            android:text="slot10"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/slot10"
+            />
+
+        <Button
+            android:layout_marginLeft="8dp"
+            android:padding="40dp"
+            android:layout_margin="8dp"
+            android:text="slot11"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/slot11"
+            />
+
+        <Button
+            android:layout_marginLeft="4dp"
+            android:padding="40dp"
+            android:text="slot12"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/slot12"
+
+            />
+
+
+    </LinearLayout>
+
+</LinearLayout>
+</ScrollView>
+
+</LinearLayout>
+
+
